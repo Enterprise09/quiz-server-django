@@ -1,0 +1,8 @@
+# Virtual Enviroment folder
+/qvenv
+
+# python cache
+/myapi/__pycache__
+
+# migrations
+/quiz/migrations
