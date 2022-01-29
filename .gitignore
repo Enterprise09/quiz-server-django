@@ -3,6 +3,7 @@
 
 # python cache
 /myapi/__pycache__
+/quiz/__pycache__
 
-# migrations
-/quiz/migrations
+# Default DB
+/db.sqlite3
